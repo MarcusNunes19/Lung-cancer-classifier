@@ -13,3 +13,5 @@ Carcinoma indiferenciado de células grandes: O carcinoma indiferenciado de cél
 Carcinoma de Células Escamosas
 
 Carcinoma de células escamosas: Este tipo de câncer de pulmão é encontrado na parte central do pulmão, onde os brônquios maiores se unem à traqueia, ou em um dos principais ramos das vias aéreas. O carcinoma de células escamosas do pulmão é responsável por cerca de 30% de todos os cânceres de pulmão não pequenas células, e geralmente está associado ao tabagismo.
+
+Link para a base de dados no Kaggle: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
